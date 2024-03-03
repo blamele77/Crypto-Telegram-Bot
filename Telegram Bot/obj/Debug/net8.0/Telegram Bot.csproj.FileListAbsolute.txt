@@ -1,0 +1,18 @@
+D:\Repos\Telegram Bot\Telegram Bot\obj\Debug\net8.0\Telegram Bot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Telegram Bot\Telegram Bot\obj\Debug\net8.0\Telegram Bot.AssemblyInfoInputs.cache
+D:\Repos\Telegram Bot\Telegram Bot\obj\Debug\net8.0\Telegram Bot.AssemblyInfo.cs
+D:\Repos\Telegram Bot\Telegram Bot\obj\Debug\net8.0\Telegram Bot.csproj.CoreCompileInputs.cache
+D:\Repos\Telegram Bot\Telegram Bot\bin\Debug\net8.0\Telegram Bot.exe
+D:\Repos\Telegram Bot\Telegram Bot\bin\Debug\net8.0\Telegram Bot.deps.json
+D:\Repos\Telegram Bot\Telegram Bot\bin\Debug\net8.0\Telegram Bot.runtimeconfig.json
+D:\Repos\Telegram Bot\Telegram Bot\bin\Debug\net8.0\Telegram Bot.dll
+D:\Repos\Telegram Bot\Telegram Bot\bin\Debug\net8.0\Telegram Bot.pdb
+D:\Repos\Telegram Bot\Telegram Bot\obj\Debug\net8.0\Telegram Bot.dll
+D:\Repos\Telegram Bot\Telegram Bot\obj\Debug\net8.0\refint\Telegram Bot.dll
+D:\Repos\Telegram Bot\Telegram Bot\obj\Debug\net8.0\Telegram Bot.pdb
+D:\Repos\Telegram Bot\Telegram Bot\obj\Debug\net8.0\Telegram Bot.genruntimeconfig.cache
+D:\Repos\Telegram Bot\Telegram Bot\obj\Debug\net8.0\ref\Telegram Bot.dll
+D:\Repos\Telegram Bot\Telegram Bot\obj\Debug\net8.0\Telegram Bot.csproj.AssemblyReference.cache
+D:\Repos\Telegram Bot\Telegram Bot\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Repos\Telegram Bot\Telegram Bot\bin\Debug\net8.0\Telegram.Bot.dll
+D:\Repos\Telegram Bot\Telegram Bot\obj\Debug\net8.0\Telegram Bot.csproj.CopyComplete

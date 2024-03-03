@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7sxkLKDdAv1HoI4AdGo7orrSrKJJ8onHyYnIloQbgtHN8z2RCmWbKjVkgQUPnxzv3N9OS9BlfTG1yN/wU6+WFA==",
+  "success": true,
+  "projectFilePath": "D:\\Repos\\Telegram Bot\\Crypto-Telegram-Bot\\Telegram Bot\\Telegram Bot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blame\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\blame\\.nuget\\packages\\telegram.bot\\19.0.0\\telegram.bot.19.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
